@@ -1,0 +1,17 @@
+current directory: /home/ivan/projects/hexlet/hexletguides.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+/home/ivan/.rbenv/versions/3.1.1/bin/ruby -I /home/ivan/.rbenv/versions/3.1.1/lib/ruby/3.1.0 -r ./siteconf20221031-54211-e260z7.rb extconf.rb
+creating Makefile
+
+current directory: /home/ivan/projects/hexlet/hexletguides.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\= clean
+make[1]: вход в каталог «/home/ivan/projects/hexlet/hexletguides.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json»
+make[1]: выход из каталога «/home/ivan/projects/hexlet/hexletguides.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json»
+
+current directory: /home/ivan/projects/hexlet/hexletguides.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\=
+make[1]: вход в каталог «/home/ivan/projects/hexlet/hexletguides.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json»
+make[1]: Цель «all» не требует выполнения команд.
+make[1]: выход из каталога «/home/ivan/projects/hexlet/hexletguides.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json»
+
+current directory: /home/ivan/projects/hexlet/hexletguides.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\= install

@@ -8,4 +8,5 @@ module.exports = {
       skipValidation: true,
     },
   },
+  productionBrowserSourceMaps: true,
 };

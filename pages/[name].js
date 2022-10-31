@@ -39,13 +39,16 @@ const Post = ({ post }) => {
 export const getStaticProps = async ({ locale, params }) => {
   const post = await findPost(params.name, locale);
 
+  console.log('founded post: ', post);
   if (!post) {
+    console.log('not found!');
     return {
       notFound: true,
     };
   }
 
   if (post.redirect_to) {
+    console.log('redirect to', post.redirect_to);
     return {
       redirect: {
         permanent: true,
